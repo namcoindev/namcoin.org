@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NamCoin Namibia"
+title                    : "NamCoin Crypto Currency"
 title_separator          : "-"
-subtitle                 : Nambia`s official Cryptocurrency
+subtitle                 : Nambia`s Official Cryptocurrency
 name                     : "NamDev"
 description              : "A Coin for the Namibian People."
 url                      : "https://namcoin.org"
